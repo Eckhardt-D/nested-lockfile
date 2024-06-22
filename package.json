@@ -1,0 +1,9 @@
+{
+  "name": "nested-lockfile",
+  "module": "index.ts",
+  "type": "module",
+  "dependencies": {
+    "logger": "git@github.com:Eckhardt-D/fake-logger.git",
+    "other-dep-with-logger": "git@github.com:Eckhardt-D/other-dep-with-logger.git"
+  }
+}
