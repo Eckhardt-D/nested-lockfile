@@ -4,6 +4,6 @@
   "type": "module",
   "dependencies": {
     "logger": "git@github.com:Eckhardt-D/fake-logger.git",
-    "other-dep-with-logger": "git@github.com:Eckhardt-D/other-dep-with-logger.git"
+    "other-pkg": "git@github.com:Eckhardt-D/other-pkg.git"
   }
 }
